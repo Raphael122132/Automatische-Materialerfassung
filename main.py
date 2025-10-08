@@ -1,2 +1,1 @@
-#conda activate materialerfassung
-print("hi")
+print("Hallo Tag 2")
